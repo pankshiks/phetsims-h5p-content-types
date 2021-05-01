@@ -12,3 +12,5 @@
 
 
 The semantics and library.json files from these folders will now be read on every request, and the js, CSS and other files will also be read on every request.
+
+5. Create a new Intereactive content type and Select the Balancing Simulation from Content type list.
