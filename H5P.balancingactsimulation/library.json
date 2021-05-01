@@ -1,0 +1,22 @@
+{
+  "title": "Balancing Simulation",
+  "description": "Balancing Simulation",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 26,
+  "runnable": 1,
+  "author": "LN WEBWORKS",
+  "license": "MIT",
+  "machineName": "H5P.balancingactsimulation",
+  "preloadedCss": [
+    {
+      "path": "bal-act-sum.css"
+    }
+  ],  
+  "preloadedJs": [
+    {
+      "path": "bal-act-sum.js"
+    }
+  ],
+  "fullscreen": 1
+}
